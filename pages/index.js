@@ -6,14 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>The Kingdom</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Wilkommen im Königreich!" />
         <p className="description">
-          Willkommen im Königreich! Bitte warte noch ein paar Wochen, diese Seite wird nämlich noch entwickelt!
+          Bitte warte noch ein wenig, diese Seite wird nämlich noch entwickelt!
+          <br>
+          Hier entsteht das neue Hub für KingArthvr_ und sein Reich.
         </p>
       </main>
 
