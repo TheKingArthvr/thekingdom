@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Wilkommen im Königreich!" />
         <p className="description">
           Bitte warte noch ein wenig, diese Seite wird nämlich noch entwickelt!
-          <br>
+          <br />
           Hier entsteht das neue Hub für KingArthvr_ und sein Reich.
         </p>
       </main>
