@@ -11,16 +11,6 @@ import App from 'next/app'
 // _app.js
 import withDarkMode from 'next-dark-mode'
 
-function MyApp(props) {
-  const {
-    autoModeActive,
-    autoModeSupported,
-    darkModeActive,
-    switchToAutoMode,
-    switchToDarkMode,
-    switchToLightMode,
-  } = props.darkMode
-}
 function MyApp({ Component, darkMode, pageProps }) {
   const {
     autoModeActive,
